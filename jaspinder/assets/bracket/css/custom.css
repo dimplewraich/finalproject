@@ -1,0 +1,218 @@
+.dataTables_processing{
+	height:54px;
+}
+
+.label-important {
+	background-color: #b94a48!important;
+}
+
+.label-inverse, .btn-inverse{
+	background-color: #333!important;
+}
+
+.fc-grid .fc-event-time{
+	font-weight:normal!important;
+}
+
+li.label{
+	margin-top:1px!important;
+}
+
+.nowrap{
+	white-space:nowrap!important;
+}
+
+.wht{
+	color:#fff!important;
+}
+
+.ml5 {
+	margin-left: 5px!important;
+}
+
+.mt-5 {
+	margin-top: -5px!important;
+}
+
+.ml10 {
+	margin-left: 10px!important;
+}
+
+.ml15 {
+	margin-left: 15px!important;
+}
+
+.ml20 {
+	margin-left: 20px!important;
+}
+
+.ml30 {
+	margin-left: 30px!important;
+}
+
+.mr15 {
+	margin-right: 15px!important;
+}
+
+.unstyled {
+	padding-left: 0;
+	list-style: none;
+}
+
+ul.chosen-choices{
+	height:100%!important;
+}
+
+.logopanel{
+	padding-left:25px;
+}
+
+a.brand,a.brand:hover{
+	color:#353535;
+	text-shadow:0 1px 0 #fff;
+	text-decoration:none;
+	-webkit-font-smoothing: antialiased; /* Fix for webkit rendering */
+	-webkit-text-size-adjust: 100%;
+}
+
+.brand .slogan{
+	font-size:15px;
+	color:#6b6b6b;
+}
+
+.filemanager .fm-title a:hover, .filemanager .fm-title a:focus{
+	text-decoration:none;
+}
+
+.wth50{
+	width:50px!important;
+}
+
+.wth60{
+	width:60px!important;
+}
+
+.no-unln{
+	text-decoration:none!important;
+}
+
+.fc-event-title{
+	/*white-space: nowrap!important;*/
+}
+
+.tlabel {
+  padding: 4px 8px;
+  font-size: 11px;
+  font-weight: normal;
+  line-height: 1;
+  color: #fff;
+  text-align: center;
+  white-space: nowrap;
+  vertical-align: baseline;
+  -moz-border-radius: 2px;
+   -webkit-border-radius: 2px;
+   border-radius: 2px;
+}
+
+.profile-social-list a:hover, .profile-social-list a:active{
+	text-decoration:none;
+	cursor:pointer;
+}
+
+.tc-desc{
+	background-color:#1CAF9A;
+	color:#ffffff;
+	padding:15px;
+	margin-top:10px;
+	
+}
+
+.tc-desc p{
+	line-height:21px;
+	font-size:13px;
+}
+
+.tc-desc a, .tc-desc.a:hover, .tc-desc a:active{
+	color:#ffffff;
+}
+
+#datepicker-inline .ui-datepicker{
+	width:100%!important;
+}
+
+.chartlegend table{
+	width:100%;
+}
+
+
+
+/*div.xAxis div.tickLabel 
+{    
+    transform: rotate(-90deg);
+    -ms-transform:rotate(-90deg);
+    -moz-transform:rotate(-90deg);
+    -webkit-transform:rotate(-90deg);
+    -o-transform:rotate(-90deg);
+    rotation-point:50% 50%;
+    rotation:270deg;
+	margin-top: 10px;
+}*/
+
+/*
+.mqabasicwnd-corner div, .mqabasicwnd-close, .mqabasicwnd-close:hover,
+.mqabasicwnd-pointer-bottom, .mqabasicwnd-pointer-top, .mqabasicwnd-pointer-left,
+.mqabasicwnd-pointer-middleLeft, .mqabasicwnd-pointer-middleRight, .mqabasicwnd-pointer-topLeft,
+.mqabasicwnd-pointer-topRight, .mqabasicwnd-pointer-bottomLeft, .mqabasicwnd-pointer-bottomRight,
+.mqabasicwnd-btop div, .mqabasicwnd-bbottom div, .mqabasicwnd-bleft div, .mqabasicwnd-bright div {
+   background-image: url('http://developer.mapquest.com/content/documentation/common/images/sprite_info_window_blue.png') !important;
+}
+ */
+ /* set the width of the custom InfoWindow and the font for its contents */
+ /*.mqabasicwnd {
+   font: 14px arial, helvetica, sans-serif;
+   width: 300px !important;
+   height:auto;
+ }*/
+    
+ /* Use CSS to place the custom 'Close' button at its desired location. Also be sure to change
+ the width and height of the 'Close' button if it's been changed from its default size. */
+/* .mqabasicwnd-close {
+   top: 0px !important;
+   right: -18px !important;
+   width: 18px !important;
+   height: 20px !important;
+ }*/
+ 
+ .pattern{
+	border: solid 1px #a94442;
+	background-color: #e4e7ea;
+	padding: 10px 5px;
+ }
+ 
+.label a , .label a:hover , .label a:active{
+	color: #fff;
+	text-decoration: none;
+ }
+ 
+ .ui-timepicker-div dl dt, .ui-timepicker-div dl dd{
+	color:#ffffff;
+ }
+ 
+ .table-primary thead tr th {
+	background-color: #428BCA;
+	color:#ffffff;
+}
+
+a.ui-state-active{
+	background: #1CAF9A;
+    color: #fff;
+}
+
+.width60{
+	/*width:60%!important;*/
+	max-width:60%!important;
+}
+
+.ui-state-highlight { height: 46px; line-height: 44px;border: 1px solid transparent;margin-top: 5px;
+    background-color: #dff0d8;
+    border-color: #d6e9c6; }

@@ -1,0 +1,1 @@
+<span class="label <?php echo !empty($params['css_class'])?$params['css_class']: 'label-default';?> btip" rel="tooltip" data-placement="right" title="<?php echo $params['title'];?>"><?php echo $params['text'];?></span>
